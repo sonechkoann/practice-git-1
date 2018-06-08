@@ -1,2 +1,3 @@
 My first line in project
 London is the capital GB
+Moscow is the capital of Russia
